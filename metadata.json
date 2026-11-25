@@ -1,0 +1,7 @@
+{
+  "name": "Discount Store.pk",
+  "description": "Curated surplus and direct-to-consumer discounted goods — audio, home essentials, apparel, and watches at up to 55% off retail with Cash on Delivery.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
